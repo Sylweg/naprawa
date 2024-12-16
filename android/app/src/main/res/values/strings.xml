@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">naprawa</string>
+    <string name="title_activity_main">naprawa</string>
+    <string name="package_name">ionic.naprawa</string>
+    <string name="custom_url_scheme">ionic.naprawa</string>
+</resources>
